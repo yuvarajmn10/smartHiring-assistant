@@ -116,4 +116,4 @@ JWT tokens expire in 7 days, ownership checks on all write operations,
 role-based guards on both frontend routes and backend controllers.
 ---
 ## 📄 License
-MIT — built by Srujan R Naik
+MIT — built by Yuvaraj M N
